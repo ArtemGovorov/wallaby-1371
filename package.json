@@ -1,0 +1,11 @@
+{
+  "name": "wallaby-1371",
+  "version": "0.0.1",
+  "dependencies": {
+    "jest": "^21.2.1",
+    "typescript": "^2.6.1"
+  },
+  "jest": {
+    "moduleNameMapper": {}
+  }
+}
